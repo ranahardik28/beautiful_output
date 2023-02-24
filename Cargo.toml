@@ -1,0 +1,15 @@
+[package]
+name = "beautiful_output"
+version = "0.1.0"
+edition = "2021"
+authors = ["Rana Hardik"]
+license = "MIT"
+description = "display your output in better way"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+
+[profile.release]
+opt-level=3
