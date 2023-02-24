@@ -2,7 +2,7 @@
 
 ```
 [dependencies]
-beautiful_output = "0.1.0"
+beautiful_output = "0.1.1"
 ```
 
 ## Example
