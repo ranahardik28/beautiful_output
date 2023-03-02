@@ -10,6 +10,8 @@
 7 . border corner style 
 
 
+
+### Add beautiful_output into your dependencies
 ```
 [dependencies]
 beautiful_output = "0.1.3"
