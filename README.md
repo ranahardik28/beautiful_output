@@ -6,7 +6,7 @@
 3 . padding rigth  
 4 . message    
 5 . border vertical style   
-6 . border horizontal style 
+6 . border horizontal style     
 7 . border corner style 
 
 
