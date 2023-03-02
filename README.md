@@ -1,6 +1,6 @@
 # How to use beautiful_output
 
-### the print function accepts four arguments
+### the print function accepts below arguments
 1 . Input  
 2 . padding left  
 3 . padding rigth  
